@@ -1,4 +1,4 @@
-# Lab 05
+# Lab 6 - Conditionals and Loops
 
 ## Recap: Lab (Github) Workflow 📄 - How to Work on Labs
 
@@ -7,8 +7,8 @@ Follow these steps for every lab carefully to access, complete, and submit your 
 1.  **Accept the Assignment**
 
     - Open the Lab Assignment Link the professor provided.
-    - Click **"Accept the assignment"**. This will create your personal assignment repository on GitHub under the `OOP-Fall-2025` organization.
-    - You'll be taken to your repository page. Verify that the URL looks like `github.com/OOP-Fall-2025/lab-number-yourusername`.
+    - Click **"Accept the assignment"**. This will create your personal assignment repository on GitHub under the correct organization.
+    - You'll be taken to your repository page. Verify that the URL looks like `github.com/organization/lab-number-yourusername`.
 
 2.  **Clone the Repository to Your Computer**
 
@@ -21,7 +21,7 @@ Follow these steps for every lab carefully to access, complete, and submit your 
 
     - In GitHub Desktop, ensure the "Current repository" is the one for this lab.
     - Click the **"Open in Visual Studio Code"** button.
-    - VS Code will open the project folder. You can now begin writing your solutions in the `Lab06.java` file.
+    - VS Code will open the project folder. You can now begin writing your solutions in the `Lab6.java` file.
 
 4.  **Save and Submit Your Work**
 
@@ -34,7 +34,7 @@ Follow these steps for every lab carefully to access, complete, and submit your 
 
 ---
 
-## Lab 05 Tasks
+## Lab 6 Tasks
 
 ### `If this then that`
 
